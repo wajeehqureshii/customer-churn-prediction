@@ -31,8 +31,8 @@ This project explores customer behavior patterns and uses a Random Forest Classi
 
 ## 📈 Model Evaluation
 
-- Accuracy: ~ (fill in yours from report)
-- F1 Score: (fill in)
+- Accuracy: ~ 79%
+- F1 Score: 78%
 - Confusion Matrix included
 
 ## 📌 Future Improvements
